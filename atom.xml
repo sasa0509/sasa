@@ -3,11 +3,11 @@
   <title>のブログ</title>
   
   <subtitle>XSGE</subtitle>
-  <link href="https://xsge.gitee.io/atom.xml" rel="self"/>
+  <link href="https://xsge.gitee.io/sasa/atom.xml" rel="self"/>
   
-  <link href="https://xsge.gitee.io/"/>
+  <link href="https://xsge.gitee.io/sasa/"/>
   <updated>2022-09-26T05:21:51.141Z</updated>
-  <id>https://xsge.gitee.io/</id>
+  <id>https://xsge.gitee.io/sasa/</id>
   
   <author>
     <name>ササ</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试</title>
-    <link href="https://xsge.gitee.io/2022/09/19/test/"/>
-    <id>https://xsge.gitee.io/2022/09/19/test/</id>
+    <link href="https://xsge.gitee.io/sasa/2022/09/19/test/"/>
+    <id>https://xsge.gitee.io/sasa/2022/09/19/test/</id>
     <published>2022-09-19T08:29:45.000Z</published>
     <updated>2022-09-26T05:21:51.141Z</updated>
     
@@ -33,25 +33,25 @@
     
     
     
-    <category term="分类" scheme="https://xsge.gitee.io/categories/%E5%88%86%E7%B1%BB/"/>
+    <category term="分类" scheme="https://xsge.gitee.io/sasa/categories/%E5%88%86%E7%B1%BB/"/>
     
-    <category term="软件安装与配置" scheme="https://xsge.gitee.io/categories/%E5%88%86%E7%B1%BB/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+    <category term="软件安装与配置" scheme="https://xsge.gitee.io/sasa/categories/%E5%88%86%E7%B1%BB/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
     
     
-    <category term="日料" scheme="https://xsge.gitee.io/tags/%E6%97%A5%E6%96%99/"/>
+    <category term="日料" scheme="https://xsge.gitee.io/sasa/tags/%E6%97%A5%E6%96%99/"/>
     
-    <category term="Gitee" scheme="https://xsge.gitee.io/tags/Gitee/"/>
+    <category term="Gitee" scheme="https://xsge.gitee.io/sasa/tags/Gitee/"/>
     
-    <category term="博客" scheme="https://xsge.gitee.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://xsge.gitee.io/sasa/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="标签" scheme="https://xsge.gitee.io/tags/%E6%A0%87%E7%AD%BE/"/>
+    <category term="标签" scheme="https://xsge.gitee.io/sasa/tags/%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://xsge.gitee.io/2022/09/14/hello-world/"/>
-    <id>https://xsge.gitee.io/2022/09/14/hello-world/</id>
+    <link href="https://xsge.gitee.io/sasa/2022/09/14/hello-world/"/>
+    <id>https://xsge.gitee.io/sasa/2022/09/14/hello-world/</id>
     <published>2022-09-14T06:39:23.325Z</published>
     <updated>2022-09-09T01:21:21.097Z</updated>
     
@@ -70,8 +70,8 @@
   
   <entry>
     <title>SSM整合</title>
-    <link href="https://xsge.gitee.io/2021/09/12/SSM%E6%95%B4%E5%90%88/"/>
-    <id>https://xsge.gitee.io/2021/09/12/SSM%E6%95%B4%E5%90%88/</id>
+    <link href="https://xsge.gitee.io/sasa/2021/09/12/SSM%E6%95%B4%E5%90%88/"/>
+    <id>https://xsge.gitee.io/sasa/2021/09/12/SSM%E6%95%B4%E5%90%88/</id>
     <published>2021-09-11T16:00:00.000Z</published>
     <updated>2022-09-19T09:01:31.205Z</updated>
     
@@ -85,25 +85,25 @@
     
     
     
-    <category term="分类" scheme="https://xsge.gitee.io/categories/%E5%88%86%E7%B1%BB/"/>
+    <category term="分类" scheme="https://xsge.gitee.io/sasa/categories/%E5%88%86%E7%B1%BB/"/>
     
-    <category term="软件安装与配置" scheme="https://xsge.gitee.io/categories/%E5%88%86%E7%B1%BB/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+    <category term="软件安装与配置" scheme="https://xsge.gitee.io/sasa/categories/%E5%88%86%E7%B1%BB/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
     
     
-    <category term="日料" scheme="https://xsge.gitee.io/tags/%E6%97%A5%E6%96%99/"/>
+    <category term="日料" scheme="https://xsge.gitee.io/sasa/tags/%E6%97%A5%E6%96%99/"/>
     
-    <category term="Gitee" scheme="https://xsge.gitee.io/tags/Gitee/"/>
+    <category term="Gitee" scheme="https://xsge.gitee.io/sasa/tags/Gitee/"/>
     
-    <category term="博客" scheme="https://xsge.gitee.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://xsge.gitee.io/sasa/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="标签" scheme="https://xsge.gitee.io/tags/%E6%A0%87%E7%AD%BE/"/>
+    <category term="标签" scheme="https://xsge.gitee.io/sasa/tags/%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
   <entry>
     <title>ササ</title>
-    <link href="https://xsge.gitee.io/2019/08/27/Blog-Open-Source/"/>
-    <id>https://xsge.gitee.io/2019/08/27/Blog-Open-Source/</id>
+    <link href="https://xsge.gitee.io/sasa/2019/08/27/Blog-Open-Source/"/>
+    <id>https://xsge.gitee.io/sasa/2019/08/27/Blog-Open-Source/</id>
     <published>2019-08-27T03:41:03.000Z</published>
     <updated>2022-09-22T07:22:18.531Z</updated>
     
@@ -117,14 +117,14 @@
     
     
     
-    <category term="软件安装与配置分类" scheme="https://xsge.gitee.io/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE%E5%88%86%E7%B1%BB/"/>
+    <category term="软件安装与配置分类" scheme="https://xsge.gitee.io/sasa/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE%E5%88%86%E7%B1%BB/"/>
     
     
-    <category term="日料" scheme="https://xsge.gitee.io/tags/%E6%97%A5%E6%96%99/"/>
+    <category term="日料" scheme="https://xsge.gitee.io/sasa/tags/%E6%97%A5%E6%96%99/"/>
     
-    <category term="Gitee" scheme="https://xsge.gitee.io/tags/Gitee/"/>
+    <category term="Gitee" scheme="https://xsge.gitee.io/sasa/tags/Gitee/"/>
     
-    <category term="博客" scheme="https://xsge.gitee.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://xsge.gitee.io/sasa/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
